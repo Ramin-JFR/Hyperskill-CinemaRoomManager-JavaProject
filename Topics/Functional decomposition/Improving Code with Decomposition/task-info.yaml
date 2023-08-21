@@ -1,0 +1,26 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: The day variable could be moved into a different method.
+- text: Split the switch statement into a separate method and return the output instead
+    of printing it directly in switch.
+- text: Each day could be represented by an individual function.
+- text: Create a separate function for determining the day type (Weekend or Weekday).
+- text: The main function should be solely responsible for printing the output and
+    not contain any switch statements.
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/31416#comment
+status: Solved
+record: -1
+local_check: false

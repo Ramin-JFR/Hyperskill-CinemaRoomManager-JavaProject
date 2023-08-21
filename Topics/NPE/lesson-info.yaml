@@ -1,0 +1,8 @@
+content:
+- Theory
+- Lines that may throw NPE
+- Unknown input
+- Avoid NPE with strings
+- Where NPE may occur
+- Find NPE
+- Return empty string when argument is null
